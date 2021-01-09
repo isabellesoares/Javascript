@@ -2,4 +2,4 @@
 
 ############
 
-# Exercícios de explicação sobre como trabalhar com o JavaScript
+# Exercícios de explicação sobre como começar com o JavaScript #
